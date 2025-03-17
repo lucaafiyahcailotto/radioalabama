@@ -1,2 +1,4 @@
 # radioalabama
-swag radio
+peaceorderitalypopecausesconflictssafewarsbenditto2025hitlerjesusmafiamuslimreligioncaosenglishitalian
+
+pace e bene madame bijouox
