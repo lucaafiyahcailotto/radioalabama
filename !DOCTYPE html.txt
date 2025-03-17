@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio Alabama</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Radio Alabama</h1>
+    </header>
+    
+    <main>
+        <h2>Ascolta la diretta!</h2>
+        <audio controls>
+            <source src="https://your-stream-url.com/live" type="audio/mpeg">
+            Il tuo browser non supporta l'elemento audio.
+        </audio>
+
+        <p>Seguici per aggiornamenti e contenuti esclusivi.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Radio Alabama - Indipendente e Libera</p>
+    </footer>
+</body>
+</html>
